@@ -41,13 +41,13 @@
 	<repository>
 		<id>central</id>
 		<name>Internal Releases</name>
-		<url>http://18.224.153.169:8081/repository/Helloworld/</url>
+		<url>http://35.222.221.129:8081/repository/student/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>central</id>
 		<name>Internal Releases</name>
-		<url>http://18.224.153.169:8081/repository/Helloworld/</url>
+		<url>http://35.222.221.129:8081/repository/student/</url>
 	</snapshotRepository>
 
 </distributionManagement>
