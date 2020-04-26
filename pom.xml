@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.scmgalaxy.mavensample</groupId>
-  <artifactId>my-maven</artifactId>
+  <artifactId>Student1</artifactId>
   <packaging>jar</packaging>
-  <version>2.0.0</version>
-  <name>my-maven</name>
+  <version>2.0.0-SNAPSHOT</version>
+  <name>Student1</name>
   <url>http://maven.apache.org</url>
 	
 <properties>
@@ -39,14 +39,14 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>central</id>
+		<id>deployment</id>
 		<name>Internal Releases</name>
 		<url>http://34.69.186.51:8081/repository/Student1/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>central</id>
-		<name>Internal Releases</name>
+		<id>deployment</id>
+		<name>Internal Snapshot Releases</name>
 		<url>http://34.69.186.51:8081/repository/Student1/</url>
 	</snapshotRepository>
 
