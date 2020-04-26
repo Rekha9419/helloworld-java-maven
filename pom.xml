@@ -39,13 +39,13 @@
 	</build>
 <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>Student1</id>
 		<name>Internal Releases</name>
 		<url>http://34.69.186.51:8081/repository/Student1/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>Student1</id>
 		<name>Internal Snapshot Releases</name>
 		<url>http://34.69.186.51:8081/repository/Student1/</url>
 	</snapshotRepository>
