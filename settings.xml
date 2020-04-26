@@ -118,7 +118,7 @@ under the License.
      |
      -->
     <server>
-      <id>deployment</id>
+      <id>Student1</id>
       <username>admin</username>
       <password>Ar.12345</password>
     </server>
