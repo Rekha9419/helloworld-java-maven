@@ -117,11 +117,11 @@ under the License.
      |       used together.
      |
     <server>
-      <id>Nexus-snapshot</id>
+      <id>Student1</id>
       <username>admin</username>
       <password>Ar.12345</password>
     </server>
-    -->
+    
 
     <!-- Another sample, using keys to authenticate.
     <server>
@@ -152,8 +152,8 @@ under the License.
     <mirror>
       <id>mirrorId</id>
       <mirrorOf>nexus-snapshot</mirrorOf>
-      <name>Student</name>
-      <url>http://34.69.186.51:8081/repository/student/</url>
+      <name>Student1</name>
+      <url>http://34.69.186.51:8081/repository/Student1/</url>
     </mirror>
      -->
   </mirrors>
